@@ -5,6 +5,10 @@ scrapy douban
 flask framework
 
 git push command
+
 新建分支
 git branch
 git push -u origin localPython
+
+合并分支localPython到master
+git merge localPython
